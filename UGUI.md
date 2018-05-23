@@ -1,0 +1,1 @@
+- 创建一个Canvas画布，之后给画布加上一个layout中的Canvas Group组件，并去掉Intercetable和blocks（鼠标的影响）
